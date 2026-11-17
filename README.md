@@ -1,6 +1,6 @@
 # How Small Teams Write Meeting Minutes That Get Used
 
-![How Small Teams Write Meeting Minutes That Get Used](images/how-small-teams-write-meeting-minutes-that-get-used-feature.jpg)
+![How Small Teams Write Meeting Minutes That Get Used](how-small-teams-write-meeting-minutes-that-get-used-feature.jpg)
 
 **A meeting ends, everyone nods, and a week later nobody can agree on what was decided. The fix is not a longer document. It is a shorter one, written for the reader who was not in the room, sent the same day, and stored where the team can find it again. This guide shows how small teams write [minutes of meeting](https://www.ricepurityhub.com/how-to-write-meeting-minutes/) that people actually read, trust, and act on, and how to keep those minutes alive inside [knowledge base software](https://www.ricepurityhub.com/knowledge-base-software/) so one good decision does not vanish into a chat thread.**
 
@@ -74,7 +74,7 @@ Copy every action out of the minutes and into the plan or task list where it sta
 
 Minutes earn their keep months after a meeting, so save them in the shared space the team uses for project files, not in a personal folder. A decision nobody can find later might as well not have been recorded. Keep one master copy per project, with clear names, so the record of a decision is easy to find and impossible to confuse with an older draft.
 
-![Meeting minutes that get used: talk to action in three steps](images/how-small-teams-write-meeting-minutes-that-get-used-three-steps-infographic.jpg)
+![Meeting minutes that get used: talk to action in three steps](how-small-teams-write-meeting-minutes-that-get-used-three-steps-infographic.jpg)
 
 ## A Worked Example
 
@@ -116,7 +116,7 @@ The habit that keeps the library honest is a monthly check. Once a month, someon
 
 There is a useful parallel here. A product team keeps one correct record of a product from its first sketch to the day it is retired, and that discipline is called [product lifecycle management](https://www.ricepurityhub.com/product-lifecycle-management/). Minutes deserve the same treatment at a smaller scale: one product, one record, and every team working from the same correct version of the truth. A meeting decision is a smaller thing than a product, but the failure is the same. When the record splits into copies, one copy goes stale, someone works from the old version, and real time and trust are lost.
 
-![Meeting minutes that get used: one action, one owner, one date](images/how-small-teams-write-meeting-minutes-that-get-used-one-action-infographic.jpg)
+![Meeting minutes that get used: one action, one owner, one date](how-small-teams-write-meeting-minutes-that-get-used-one-action-infographic.jpg)
 
 ## Why This System Works
 
